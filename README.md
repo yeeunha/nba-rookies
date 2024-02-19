@@ -1,1 +1,1 @@
-# potential-octo-umbrella
+NBA 선수 경력 분류 예측 프로젝트 결과물입니다.
